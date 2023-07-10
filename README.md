@@ -1,6 +1,6 @@
 GitHub Bot Detailed Description:
 
-Bot Name: AirdropMaximizer powerd by Anty-Sybil technology
+Bot Name: AirdropMaximizer powered by Anty-Sybil technology
 
 Description:
 AirdropMaximizer is an innovative bot built based on historical data analysis and airdrops that have yielded the highest returns. If you want to maximize the potential of airdrops, our bot is the perfect tool for you.
